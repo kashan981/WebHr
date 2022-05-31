@@ -1,0 +1,18 @@
+[16292:6036:0530/125503.319:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://tps.webhr.co/hr/login/#noanchor (0)
+[16292:6036:0530/125505.768:INFO:CONSOLE(1)] "jQuery.Deferred exception: Cannot set properties of undefined (setting '_renderItem') TypeError: Cannot set properties of undefined (setting '_renderItem')
+    at HTMLDocument.<anonymous> (https://cdn.webhr.co/js/whr_v1_9.js:120:54)
+    at c (https://cdn.webhr.co/Assets/wp/whr_lib1_v1.1.js:1:58343)
+    at d (https://cdn.webhr.co/Assets/wp/whr_lib1_v1.1.js:1:58645) undefined", source: https://cdn.webhr.co/Assets/wp/whr_lib1_v1.1.js (1)
+[16292:6036:0530/125505.777:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of undefined (setting '_renderItem')", source: https://cdn.webhr.co/Assets/wp/whr_lib1_v1.1.js (1)
+[16292:6036:0530/125507.499:ERROR:device_event_log_impl.cc(214)] [12:55:07.500] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[16292:6036:0530/125507.524:ERROR:device_event_log_impl.cc(214)] [12:55:07.524] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+[16292:6036:0530/125511.579:WARNING:controller_impl.cc(1189)] Background download complete, client: 6, completion type: 0, file size:265060
+[16292:6036:0530/125517.232:INFO:CONSOLE(74)] "BSSO Telemetry: {"result":"Error","error":"NoExtension","type":"ChromeSsoTelemetry","data":{},"traces":["BrowserSSO Initialized","Creating ChromeBrowserCore provider","Sending message for method CreateProviderAsync","Received message for method CreateProviderAsync","Error: ChromeBrowserCore error NoExtension: Extension is not installed."]}", source: https://login.microsoftonline.com/a07b718b-5050-470f-8fd0-f120bc75a518/oauth2/v2.0/authorize?response_type=code&redirect_uri=https%3A%2F%2Fapi.webhr.co%2Fsso%2FMicrosoft%2F&client_id=d9387a9c-74ff-4e6c-b424-47fc6ae3ce31&nonce=8ed1cee91ccae05247c514c5648a8615&state=d32b3b54e3de6115eecf7ef6a173047a&scope=profile+openid+offline_access+email (74)
+[16292:19580:0530/125558.246:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+[16292:6036:0530/125605.117:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://tps.webhr.co/hr/login/?processs=Logout (0)
+[16292:6036:0530/125605.636:INFO:CONSOLE(1)] "jQuery.Deferred exception: Cannot set properties of undefined (setting '_renderItem') TypeError: Cannot set properties of undefined (setting '_renderItem')
+    at HTMLDocument.<anonymous> (https://cdn.webhr.co/js/whr_v1_9.js:120:54)
+    at c (https://cdn.webhr.co/Assets/wp/whr_lib1_v1.1.js:1:58343)
+    at d (https://cdn.webhr.co/Assets/wp/whr_lib1_v1.1.js:1:58645) undefined", source: https://cdn.webhr.co/Assets/wp/whr_lib1_v1.1.js (1)
+[16292:6036:0530/125605.642:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of undefined (setting '_renderItem')", source: https://cdn.webhr.co/Assets/wp/whr_lib1_v1.1.js (1)
+[16292:6036:0530/125606.686:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
